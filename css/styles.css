@@ -12,3 +12,8 @@
   opacity: .7;
   max-height: 5px;
 }
+
+.img-header {
+  float: left;
+  padding-right: 95%;
+}
