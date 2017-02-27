@@ -5,6 +5,10 @@
   margin-bottom: -20px;
 }
 
+.icons:hover {
+  color: white;
+}
+
 .navbar {
   margin-top: 18px;
   background-color: black;
@@ -16,4 +20,9 @@
 .img-header {
   float: left;
   padding-right: 95%;
+}
+
+.jumbotron1 {
+  width: 100%;
+  background-color: red;
 }
