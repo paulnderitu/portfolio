@@ -1,16 +1,25 @@
 .jumbotron0 {
-  min-height: 200px;
-  background-color: #3399cc;
-  width: 100%;
-  margin-bottom: -20px;
+  min-height: 150px;
+  background-color: #3686be;
+  width: 87%;
+  margin-bottom: 0px;
+  margin-left: 6.8%;
+  margin-right: 15%;
 }
 
 .navbar {
   margin-top: 18px;
-  background-color: black;
-  width: 100%;
+  background-color: transparent;
+  width: 85%;
   opacity: .7;
   max-height: 5px;
+  padding-top: 10%;
+  padding-bottom: 0%;
+  padding-right: 5%;
+}
+
+.nav>li>a:hover {
+  background-color: #cdd41f;
 }
 
 .img-header {
