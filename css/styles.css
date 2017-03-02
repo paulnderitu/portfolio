@@ -7,6 +7,11 @@
   margin-right: 15%;
 }
 
+.topicons {
+  background-color: transparent;
+  color: #ffffff;
+}
+
 .navbar {
   margin-top: 18px;
   background-color: transparent;
