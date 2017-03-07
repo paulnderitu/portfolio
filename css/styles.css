@@ -1,15 +1,28 @@
-.jumbotron0 {
-  min-height: 150px;
-  background-color: #3686be;
-  width: 87%;
-  margin-bottom: 0px;
-  margin-left: 6.8%;
-  margin-right: 15%;
+.logo {
+  float: left;
 }
 
 .topicons {
   background-color: transparent;
   color: #ffffff;
+  float: right;
+  padding-top: px;
+}
+
+.top {
+  background-color: white;
+  min-height: 200px;
+  background-image: url(../img/bk1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.topbar {
+  float: right;
+  padding-right: 0px;
+  padding-top: 150px;
+  margin-right: 0px;
 }
 
 .navbar {
