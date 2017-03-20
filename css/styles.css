@@ -10,18 +10,17 @@
 }
 
 .top {
-  background-color: white;
-  min-height: 200px;
-  background-image: url(../img/bk1.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background-color: #575756;
+  min-height: 100px;
+}
+
+.dropdown {
+  float: right;
+  padding-top: 2px;
 }
 
 .topbar {
-  float: right;
-  padding-right: 0px;
-  padding-top: 150px;
+  float: left;
   margin-right: 0px;
 }
 
